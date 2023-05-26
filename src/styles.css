@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+img{
+  width: 30rem;
+}
+
+.row{
+  background-color: rgb(211, 173, 76);
+}
+.carello
+{
+  display: flex;
+  background-color: rgb(255, 98, 0);
+
+}
+
+.carello{
+  display: flex;
+  width: 50%;
+}
+
+.carello-component{
+  background-color: rgb(149, 95, 81);
+ 
+}
+
+.carello img{
+  display: flex;
+  width: 50%;
+}
+
+
+.col-9
+{
+  background-color: rgb(155, 233, 60);
+
+}
